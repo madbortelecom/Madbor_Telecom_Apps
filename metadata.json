@@ -1,0 +1,7 @@
+{
+  "name": "Madbor_telecom",
+  "description": "Madbor Telecom - 3D Ultra Master",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
